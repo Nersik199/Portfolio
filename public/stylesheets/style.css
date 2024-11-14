@@ -323,7 +323,7 @@ header {
 	z-index: 99999;
 	justify-content: center;
 	overflow-y: hidden;
-	background-image: url(src/svg/Pulse-0.4s-200px.svg);
+	background-image: url(../src/svg/Pulse-0.4s-200px.svg);
 	background-size: 10%;
 }
 
